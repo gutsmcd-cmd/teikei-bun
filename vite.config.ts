@@ -8,7 +8,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icons/*.png'],
       manifest: {
-        id: './',
+        id: '/teikei-bun/',
         name: '定型ぶん',
         short_name: '定型ぶん',
         description: 'よく使う文章をタップでコピー。無料・広告なし・ログイン不要・オフライン。',
