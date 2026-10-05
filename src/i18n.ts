@@ -82,7 +82,7 @@ const ja: Dict = {
 };
 
 const en: Dict = {
-  appTitle: 'Snippets',
+  appTitle: 'My Common Phrases',
   appSub: 'Tap to copy the text you type all the time',
   search: 'Search',
   searchPh: 'Search titles and text',
