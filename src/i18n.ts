@@ -36,7 +36,7 @@ export function t(key: string, vars?: Record<string, string | number>): string {
 }
 
 const ja: Dict = {
-  appTitle: '定型ぶん',
+  appTitle: '定型文',
   appSub: 'よく使う文章をタップでコピー',
   search: '検索',
   searchPh: 'タイトル・本文を検索',

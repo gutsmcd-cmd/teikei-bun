@@ -9,8 +9,8 @@ export default defineConfig({
       includeAssets: ['icons/*.png'],
       manifest: {
         id: '/teikei-bun/',
-        name: '定型ぶん',
-        short_name: '定型ぶん',
+        name: '定型文',
+        short_name: '定型文',
         description: 'よく使う文章をタップでコピー。無料・広告なし・ログイン不要・オフライン。',
         lang: 'ja',
         theme_color: '#F5F6FF',
